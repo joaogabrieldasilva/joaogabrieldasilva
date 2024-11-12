@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,nodejs,react,nextjs,tailwind,prisma,postgresql,nestjs,firebase,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=neovim,arch,typescript,nodejs,react,nextjs,tailwind,java,spring,postgresql,go,nestjs,firebase,docker,aws" />
   </a>
 </p>
+
